@@ -2,8 +2,8 @@
 
 ## INTEGRANTES
 
-- **Alex Patricio Quishpe Salgado
-- **Marco Antonio Chacón Yépez
+- Alex Patricio Quishpe Salgado
+- Marco Antonio Chacón Yépez
 
 ## INTRODUCCION
 Este proyecto es una aplicación web para la gestión de clientes, habitaciones y reservas en un hotel, por medio del uso de frameworks como React.js, Vite y el lenguaje typescript.
@@ -12,8 +12,8 @@ Este proyecto es una aplicación web para la gestión de clientes, habitaciones 
 
 ### Clonar el Repositorio
 Ejecutamos el siguiente comando:
-git clone https://github.com/tu_usuario/aplicativo-hotel.git
-cd aplicativo-hotel
+git clone https://github.com/mc4589/cliente_habitaciones_hotel.git
+cd enrutamiento
 
 ## Instalar Dependencias
 Con cmd o Powershell ejecutamos el comando de instalación de dependencias:
