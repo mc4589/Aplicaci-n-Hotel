@@ -2,31 +2,57 @@
 
 ## INTEGRANTES
 
+<<<<<<< HEAD
 - **Alex Patricio Quishpe Salgado
 - **Marco Antonio Chacón Yépez
 
 ## INTRODUCCION
+=======
+- Alex Patricio Quishpe Salgado
+- Marco Antonio Chacón Yépez
+
+## Introducción
+>>>>>>> af38af710fe30cfd6d0115cf268ad950a6a9312f
 Este proyecto es una aplicación web para la gestión de clientes, habitaciones y reservas en un hotel, por medio del uso de frameworks como React.js, Vite y el lenguaje typescript.
 
 ## Instrucciones para Clonar, Instalar Dependencias y Ejecutar la Aplicación
 
 ### Clonar el Repositorio
+<<<<<<< HEAD
 
 ```bash
+=======
+Usamos el comando en git:
+
+>>>>>>> af38af710fe30cfd6d0115cf268ad950a6a9312f
 git clone https://github.com/tu_usuario/aplicativo-hotel.git
 cd aplicativo-hotel
 
 ## Instalar Dependencias
+<<<<<<< HEAD
 - **npm install
 
 ## Ejecutar la aplicación
+=======
+Ejecutamos el siguiene comando en cmd o Powershell
+- **npm install
+
+## Ejecutar la aplicación
+Desde la terminal del proyecto, carpeta "enrutamiento" en VS Code ejecutamos el siguiente comando:
+>>>>>>> af38af710fe30cfd6d0115cf268ad950a6a9312f
 -** npm run dev
 
 ## Descripción de Funcionalidades
 
+<<<<<<< HEAD
 ### Clientes
 
 - **Agregar Clientes**: Formulario para agregar clientes con los siguientes campos: primer nombre, segundo nombre, primer apellido, segundo apellido y correo electrónico.
+=======
+### Gestión de Clientes
+
+- **Agregar Clientes**: Se empieza utilizando un componente de formulario para agregar clientes con los siguientes campos: primer nombre, segundo nombre, primer apellido, segundo apellido y correo electrónico.
+>>>>>>> af38af710fe30cfd6d0115cf268ad950a6a9312f
 - **Listar Clientes**: Tabla que muestra una lista de clientes con un identificador autoincremental, nombres completos y correo electrónico.
 - **Editar Clientes**: Botón de editar para cada cliente que abre un formulario emergente para actualizar la información del cliente.
 - **Eliminar Clientes**: Botón de eliminar para cada cliente que permite eliminar el registro del cliente.
@@ -61,4 +87,8 @@ cd aplicativo-hotel
 
 ## Contribuciones
 
+<<<<<<< HEAD
 - **Este proyecto sirve de base para implementar sistemas informáticos más avanzados de gestión hotelera. También es posible integrar más framewors para que la aplicación sea más funcional.
+=======
+- Este proyecto sirve de base para implementar sistemas informáticos más avanzados de gestión hotelera. También es posible integrar más framewors para que la aplicación sea más funcional.
+>>>>>>> af38af710fe30cfd6d0115cf268ad950a6a9312f
